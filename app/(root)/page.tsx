@@ -8,6 +8,7 @@ const Home = () => {
       <UserButton afterSignOutUrl ='/' />
     </div>
   );
-}
+} 
 
 export default Home;
+

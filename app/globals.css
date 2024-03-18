@@ -220,7 +220,7 @@
 
   /* Home Page */
   .home {
-    @apply sm:flex-center hidden h-72 flex-col gap-4 rounded-[20px] border bg-banner bg-cover bg-no-repeat p-10 shadow-inner;
+    @apply sm:flex-center  h-72 flex-col gap-4 rounded-[20px] border bg-banner bg-cover bg-no-repeat p-10 shadow-inner;
   }
 
   .home-heading {
@@ -255,7 +255,7 @@
 
   /* Transformation Details */
   .transformation-grid {
-    @apply grid h-fit min-h-[200px] grid-cols-1 gap-5 py-8 md:grid-cols-2;
+    @apply grid h-fit min-h-[200px] grid-cols-1 gap-4 py-7 md:grid-cols-2;
   }
 
   .transformation-original_image {

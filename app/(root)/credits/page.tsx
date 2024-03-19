@@ -21,7 +21,7 @@ const Credits = async () => {
     <>
       <Header
         title="Buy Credits"
-        subtitle="Choose a credit package that suits your needs!"
+        subTitle="Choose a credit package that suits your needs!"
       />
 
       <section>
